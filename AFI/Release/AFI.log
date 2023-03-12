@@ -1,0 +1,15 @@
+﻿  gk_afi.cpp
+  zpr.c
+  Generating code
+  40 of 40 functions (100.0%) were compiled.
+    16 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AFI.vcxproj -> F:\Uczelnia\GK\Laby\GK_AFI\AFI\Release\AFI.exe
+  Copying external run-time libraries
+  F:\Uczelnia\GK\Laby\GK_AFI\AFI\\..\external\libs\glut\release\glut32.dll
+  1 File(s) copied
+  F:\Uczelnia\GK\Laby\GK_AFI\AFI\\..\external\libs\osg\release\osg97-osg.dll
+  1 File(s) copied
+  F:\Uczelnia\GK\Laby\GK_AFI\AFI\\..\external\libs\OpenThreads\release\ot12-OpenThreads.dll
+  1 File(s) copied
