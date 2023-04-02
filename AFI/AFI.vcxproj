@@ -98,10 +98,16 @@ xcopy "$(ProjectDir)\..\external\libs\OpenThreads\release\*.dll" "$(ProjectDir)\
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Problem1.cpp" />
+    <ClCompile Include="Problem2.cpp" />
+    <ClCompile Include="Problem3.cpp" />
     <ClCompile Include="src\gk_afi.cpp" />
     <ClCompile Include="src\zpr.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Problem1.h" />
+    <ClInclude Include="Problem2.h" />
+    <ClInclude Include="Problem3.h" />
     <ClInclude Include="src\zpr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
